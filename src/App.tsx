@@ -325,7 +325,7 @@ export default function App() {
                           className="w-full h-full object-cover"
                           referrerPolicy="no-referrer"
                           onError={(e) => {
-                            (e.target as HTMLImageElement).src = "/id_formal.jpeg";
+                            (e.target as HTMLImageElement).src = "id_formal.jpeg";
                           }}
                         />
                       </motion.div>
