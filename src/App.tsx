@@ -325,7 +325,7 @@ export default function App() {
                           className="w-full h-full object-cover"
                           referrerPolicy="no-referrer"
                           onError={(e) => {
-                            (e.target as HTMLImageElement).src = "https://picsum.photos/seed/issa/800/800";
+                            (e.target as HTMLImageElement).src = "/id_formal.jpeg";
                           }}
                         />
                       </motion.div>
