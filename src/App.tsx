@@ -325,7 +325,7 @@ export default function App() {
                           className="w-full h-full object-cover"
                           referrerPolicy="no-referrer"
                           onError={(e) => {
-                            (e.target as HTMLImageElement).src = "/id_formal.jpeg";
+                            (e.target as HTMLImageElement).src = "blob:https://aistudio.google.com/728fee99-0426-4ea9-8d68-6925558693e2";
                           }}
                         />
                       </motion.div>
