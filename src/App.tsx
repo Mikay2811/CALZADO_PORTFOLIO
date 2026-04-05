@@ -325,7 +325,7 @@ export default function App() {
                           className="w-full h-full object-cover"
                           referrerPolicy="no-referrer"
                           onError={(e) => {
-                            (e.target as HTMLImageElement).src = "blob:https://aistudio.google.com/728fee99-0426-4ea9-8d68-6925558693e2";
+                            (e.target as HTMLImageElement).src = "https://scontent.fceb1-4.fna.fbcdn.net/v/t1.15752-9/651039115_1272545391012087_192962215703539526_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeFFiTGmhKxQiK9EfNuu9YgA4e3C_jOsiAPh7cL-M6yIAwUSlkG537mDMayQRET1B_84dPn_48ZUUzoMnuJv13yc&_nc_ohc=OcjDOUNGqEEQ7kNvwEqacBN&_nc_oc=AdrjbcBzfcV7w1G5J5R75Jo7m8WtLWucNMQM1Y064WXA2UMLZlQvYHirmrTeRkHJf8E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fceb1-4.fna&_nc_ss=7a32e&oh=03_Q7cD5AHYBLly3c2KY1vSLLnvzc3hTn0pw51ADWfK7yJoy0GkPA&oe=69F9ED9E";
                           }}
                         />
                       </motion.div>
