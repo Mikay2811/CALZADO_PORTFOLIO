@@ -47,7 +47,7 @@ interface Skill {
 const PROJECTS: Project[] = [
   {
     title: "RAKETERO",
-    description: "a gig and freelance job marketplace platform — a digital place where freelancers (“raketeros”) and people looking for gig workers can connect, find work, or post jobs. ",
+    description: "A gig and freelance job marketplace platform — a digital place where freelancers (“raketeros”) and people looking for gig workers can connect, find work, or post jobs. ",
     image: "https://scontent.fceb1-4.fna.fbcdn.net/v/t39.30808-6/649053521_942874204873601_3717226035478119266_n.webp?_nc_cat=107&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeEjREdpfYZL_WYRT2JbuQ4GSzSLN_7pkeFLNIs3_umR4Rf9uZ6Ee9ZdRQsdBt1L-3P1HF-hsp9oeejEeSviThdH&_nc_ohc=c2_uhDzvA6QQ7kNvwFhF6iQ&_nc_oc=Adr3ct0zn3GYCHMb1I-3XqnwnoKpiNFD6nSZFQaNp05Cfnfgi9MrBLbT81Ew9Hr-5w8&_nc_zt=23&_nc_ht=scontent.fceb1-4.fna&_nc_gid=Bhi5_oE1tJhkHoJgMxRvTw&_nc_ss=7a3a8&oh=00_Af3qZqXMAwTTOR6fT18lTCC8vvG3cnRwp0p9myBGAKxvmQ&oe=69D814B0",
     tags: ["React", "Node.js", "D3.js", "PostgreSQL"],
     link: "https://raketero.vercel.app/",
